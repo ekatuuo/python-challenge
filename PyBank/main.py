@@ -63,7 +63,8 @@ output = (
 
 print(output)
 
-
+with open(file_output, "w") as txt_file:
+    txt_file.write(output)
 
 
 
