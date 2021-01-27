@@ -4,7 +4,7 @@ import os
 
 #Files
 file_input = os.path.join("Resources", "budget_data.csv") 
-file_output = os.path.join("Analysis" , "budget_analysis.txt")
+file_output = os.path.join("Analysis" , "Results.txt")
 
 #setting parameters
 total_number_months = 0
